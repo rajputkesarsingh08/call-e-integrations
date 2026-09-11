@@ -1,5 +1,5 @@
 <div align="center">
-<!-- Project-Alpha -->
+  
 # CALL-E Integrations
 
 **CALL-E is your AI agent for getting phone work done.**
